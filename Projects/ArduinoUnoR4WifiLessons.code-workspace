@@ -1,0 +1,134 @@
+{
+	"folders": [
+		{
+			"name": "01-blink",
+			"path": "01-blink"
+		},
+		{
+			"name": "02-sos-homework",
+			"path": "02-sos-homework"
+		},
+		{
+			"name": "03-blink-4-leds-homework",
+			"path": "03-blink-4-leds-homework"
+		},
+		{
+			"name": "04-binary-counter-homework",
+			"path": "04-binary-counter-homework"
+		},
+		{
+			"name": "08-blink-green-red-leds-homework",
+			"path": "08-blink-green-red-leds-homework"
+		},
+		{
+			"name": "09-blink-led-serial-state-homework",
+			"path": "09-blink-led-serial-state-homework"
+		},
+		{
+			"name": "12-read-analog-voltages",
+			"path": "12-read-analog-voltages"
+		},
+		{
+			"name": "12-analog-write-led-from-potentiometer-homework",
+			"path": "12-analog-write-led-from-potentiometer-homework"
+		},
+		{
+			"name": "14-read-user-input-serial-monitor",
+			"path": "14-read-user-input-serial-monitor"
+		},
+		{
+			"name": "14-read-led-brightness-serial-monitor",
+			"path": "14-read-led-brightness-serial-monitor"
+		},
+		{
+			"name": "19-mixing-colors-rgb-led-homework",
+			"path": "19-mixing-colors-rgb-led-homework"
+		},
+		{
+			"name": "22-servo-control",
+			"path": "22-servo-control"
+		},
+		{
+			"name": "22-servo-control-potentiometer-homework",
+			"path": "22-servo-control-potentiometer-homework"
+		},
+		{
+			"name": "22-servo-control-blinking-rgb-led",
+			"path": "22-servo-control-blinking-rgb-led"
+		},
+		{
+			"name": "25-button-toggle-switch",
+			"path": "25-button-toggle-switch"
+		},
+		{
+			"name": "28-using-led-matrix",
+			"path": "28-using-led-matrix"
+		},
+		{
+			"name": "28-bouncing-pixel-homework",
+			"path": "28-bouncing-pixel-homework"
+		},
+		{
+			"name": "29-pong-game-homework",
+			"path": "29-pong-game-homework"
+		},
+		{
+			"name": "31-measuring-temperature-and-humidity-with-dht11",
+			"path": "31-measuring-temperature-and-humidity-with-dht11"
+		},
+		{
+			"name": "31-measuring-temperature-and-humidity-with-dht11-homework",
+			"path": "31-measuring-temperature-and-humidity-with-dht11-homework"
+		},
+		{
+			"name": "esp32c3-01-blink-onboard-rgb",
+			"path": "esp32c3-01-blink-onboard-rgb"
+		}
+	],
+	"settings": {
+		"cmake.options.statusBarVisibility": "visible",
+		"files.associations": {
+			"cmath": "cpp",
+			"*.tcc": "cpp",
+			"array": "cpp",
+			"initializer_list": "cpp",
+			"algorithm": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"atomic": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"exception": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"optional": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"cinttypes": "cpp",
+			"typeinfo": "cpp"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "ch02/01-my_first_project",
+			"path": "ch02/01-my_first_project"
+		},
+		{
+			"name": "ch02/02-button_led_ex",
+			"path": "ch02/02-button_led_ex"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stddef.h": "c",
+			"gpio.h": "c",
+			"freertos.h": "c",
+			"sdkconfig.h": "c",
+			"format": "c",
+			"task.h": "c"
+		}
+	}
+}

@@ -1,0 +1,157 @@
+{
+	"folders": [
+		{
+			"name": "124-challenge-which-way-is-up",
+			"path": "124-challenge-which-way-is-up"
+		},
+		{
+			"name": "126-project-burglar-alarm",
+			"path": "126-project-burglar-alarm"
+		},
+		{
+			"name": "128-transistors-as-switches",
+			"path": "128-transistors-as-switches"
+		},
+		{
+			"name": "131-dc-motor",
+			"path": "131-dc-motor"
+		},
+		{
+			"name": "134-h-bridge",
+			"path": "134-h-bridge"
+		},
+		{
+			"name": "135-challenge-two-motors",
+			"path": "135-challenge-two-motors"
+		},
+		{
+			"name": "140-project-mousebot",
+			"path": "140-project-mousebot"
+		},
+		{
+			"name": "146-connecting-to-wifi",
+			"path": "146-connecting-to-wifi"
+		},
+		{
+			"name": "149-get-request-web-page",
+			"path": "149-get-request-web-page"
+		},
+		{
+			"name": "150-challenge-print-parts-of-web-page",
+			"path": "150-challenge-print-parts-of-web-page"
+		},
+		{
+			"name": "153-project-coinmarketcap",
+			"path": "153-project-coinmarketcap"
+		},
+		{
+			"name": "153-project-cmc-uno",
+			"path": "153-project-cmc-uno"
+		},
+		{
+			"name": "155-posting-to-thingspeak",
+			"path": "155-posting-to-thingspeak"
+		},
+		{
+			"name": "156-challenge-temperature-logger",
+			"path": "156-challenge-temperature-logger"
+		},
+		{
+			"name": "158-retrieving-data-from-thingspeak",
+			"path": "158-retrieving-data-from-thingspeak"
+		},
+		{
+			"name": "159-challenge-clear-a-channel",
+			"path": "159-challenge-clear-a-channel"
+		},
+		{
+			"name": "164-making-requests-to-ifttt",
+			"path": "164-making-requests-to-ifttt"
+		},
+		{
+			"name": "165-passing-arguments-to-ifttt",
+			"path": "165-passing-arguments-to-ifttt"
+		},
+		{
+			"name": "166-challenge-iot-button",
+			"path": "166-challenge-iot-button"
+		},
+		{
+			"name": "169-project-internet-controlled-light-switch",
+			"path": "169-project-internet-controlled-light-switch"
+		},
+		{
+			"name": "173-final-project-make-something",
+			"path": "173-final-project-make-something"
+		},
+		{
+			"name": "serial-test-esp01s",
+			"path": "serial-test-esp01s"
+		},
+		{
+			"name": "serial-test-uno",
+			"path": "serial-test-uno"
+		},
+		{
+			"name": "ir-obstacle-avoidance-module-test-uno",
+			"path": "ir-obstacle-avoidance-module-test-uno"
+		},
+		{
+			"name": "esp32-c3-joystick-test",
+			"path": "esp32-c3-joystick-test"
+		},
+		{
+			"name": "arduino-parse-serial-ble-test",
+			"path": "arduino-parse-serial-ble-test"
+		}
+	],
+	"settings": {
+		"cmake.options.statusBarVisibility": "visible",
+		"files.associations": {
+			"cmath": "cpp",
+			"*.tcc": "cpp",
+			"array": "cpp",
+			"initializer_list": "cpp",
+			"algorithm": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"atomic": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"exception": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"optional": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"cinttypes": "cpp",
+			"typeinfo": "cpp",
+			"ranges": "cpp",
+			"random": "cpp",
+			"iterator": "cpp"
+		}
+	}
+}

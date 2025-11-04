@@ -1,0 +1,62 @@
+{
+	"folders": [
+		{
+			"name": "esp32-s3-test",
+			"path": "esp32-s3-test"
+		},
+		{
+			"name": "esp32-s3-new-board-pio-test",
+			"path": "esp32-s3-new-board-pio-test"
+		},
+		{
+			"name": "esp32-s3-freertos-test-espidf",
+			"path": "esp32-s3-freertos-test-espidf"
+		},
+		{
+			"name": "test-esp32-vie",
+			"path": "test-esp32-vie"
+		},
+		{
+			"name": "part-02-getting-started",
+			"path": "part-02-getting-started"
+		},
+		{
+			"name": "part-02-getting-started-challenge",
+			"path": "part-02-getting-started-challenge"
+		},
+		{
+			"name": "part-03-prioritization",
+			"path": "part-03-prioritization"
+		},
+		{
+			"name": "part-03-prioritization-challenge",
+			"path": "part-03-prioritization-challenge"
+		},
+		{
+			"name": "part-04-memory-demo",
+			"path": "part-04-memory-demo"
+		},
+		{
+			"name": "part-04-memory-demo-challenge",
+			"path": "part-04-memory-demo-challenge"
+		},
+		{
+			"name": "part-04-memory-demo-challenge-01",
+			"path": "part-04-memory-demo-challenge-01"
+		},
+		{
+			"name": "part-05-queue",
+			"path": "part-05-queue"
+		},
+		{
+			"name": "part-05-queue-challenge",
+			"path": "part-05-queue-challenge"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"fstream": "cpp"
+		}
+	}
+}
